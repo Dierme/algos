@@ -1,0 +1,16 @@
+{
+    "name": "dierme/algos",
+    "description": "Algorithms",
+    "type": "project",
+    "authors": [
+        {
+            "name": "dierme",
+            "email": "kalimdor07@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "jwilsson/spotify-web-api-php": "^2.0"
+    }
+}
